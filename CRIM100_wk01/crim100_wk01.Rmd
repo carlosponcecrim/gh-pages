@@ -1,0 +1,151 @@
+---
+title: "Course overview"
+author: "CRIM 100 - Winter 2020"
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: moon
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+---
+# A few things we need to get out of the way
+
+## Sorry, he's not coming 
+
+![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/carlosponce.jpg)
+
+## My exotic accent
+![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/scarface.gif)
+
+# Who am I?
+
+## El Salvador 
+![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/El Salvador.jpg)
+
+## Economics and business 
+![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/economist.gif)
+
+## Investigations agency 
+![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/private_eye.gif)
+
+## MA in Criminology 
+![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/reading_eyes.gif)
+
+## Crime analyst for the police 
+![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/nerd_glasses_2.gif)
+
+## Crime analyst for the AG 
+![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/nerd_glasses_1.gif)
+
+## PhD at SFU 
+![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/reading_eyes.gif)
+
+## 2nd semester as an assistant professor at UFV 
+![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/snoop_peace.gif)
+
+
+# Who are you?
+
+## Interview a classmate
+- Grab pen and paper
+- On the other side of the room
+- Ask the following questions:
+    - What is your name?
+    - Where are you from?
+    - What year are you?
+    - What is your major?
+    - Report back
+
+# What is this course about?
+
+## Intro to sociological explanations of crime and deviance
+- Most criminological theories take a sociological approach
+- How social context influences people's likehood to engage in crime
+
+## Evaluation
+
+- Midterm exam (25%)
+- Final exam (25%)
+- Weekly in-class questions (10%)
+- Attendance and participation (10%)
+- Poster Assignment (30%)
+
+## Scehdule
+![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/course_schedule.JPG)
+
+##Exams (25% each)
+- All multiple choice and true/false
+- Written in class
+- Final is not cumulative
+
+##Weekly in-class questions (10%)
+- 9 lectures with in-class questions (1 point per lecture)
+    - 1 pt/lecture = 9 points
+- All students are automatically awarded 1 point
+    - 1 point substracted per missed lecture
+- Written answers to test grasp of reading assignments
+
+
+##Attendance and participation (10%)
+- Stay for entire lecture
+- Quality of contributions to class discussion
+- Effort in class exercises
+- Scholarly and non-disruption behaviour
+
+##Poster presentation (30%)
+- Infographic poster to communicate scientific research findings and concepts on a crime-related issue.
+- Five graded tasks submitted throughout course
+- Virtual presentation
+- Instructions next week
+
+#Course policies
+
+##Extensions and Absences
+- Exceptional AND unanticipated circumstances
+    - Beyond anyone's control
+    - Significantly affect capability to comply with deadline/attendance
+- What is not exception or unanticipated?
+    - Too many assignments
+    - A wedding
+    - Work commitments
+    - A cold, etc.
+
+##In case of exception + unanticipated circumstances
+- Contact me ASAP
+- Gather and provide adequate documentation
+
+##How can you contact me?
+- Book an appointment (Mondays)
+- Email me (if you can't come on Mondays)
+    - Allow 48 hours for response
+    - Email not checked evenings, weekends, or holidays
+
+##Which emails have a lower chances of being replied?
+- Question already answered in course material or UFV website
+- Not sent from UFV email
+- Student name and id number not included
+- Course number and section not included
+- Unprofessional, impolite, and discourteous emails 
+
+##Use of mobile phones, tablets, laptops
+- Laptops/tablets for taking notes only
+- Phones have to be stored away and set to silent mode
+- Not allowed during exams
+
+##Recording, Sharing and Selling Lectures, Lecture Notes and Course Material
+- You are not authorized to record or photpgraph my lectures
+- You are not authorized to sell or post lectures or notes
+- We must abide by Canada's Copyright Act and UFV's copyright policies
+
+##You are expected to:
+- Attend and participate in lecture
+- Be on time
+- Behave in a professional and scholarly manner
+- Take notes
+- Complete reading assignments
+- Submit assignments on time
+
