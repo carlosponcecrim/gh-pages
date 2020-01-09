@@ -62,7 +62,7 @@ output:
 
 # What is this course about?
 
-## Intro to sociological explanations of crime and deviance
+## Intro to theories, theorists, and concepts that
 - Most criminological theories take a sociological approach
 - How social context influences people's likelihood to engage in crime
 
@@ -75,7 +75,7 @@ output:
 - Theory Assignment (30%)
 
 ## Schedule
-![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/course_schedule.JPG)
+![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk01/schedule.JPG)
 
 ## Exams (25% each)
 - All multiple choice and true/false
@@ -86,7 +86,7 @@ output:
 - 9 lectures with in-class questions (1 point per lecture)
     - 1 pt/lecture = 9 points
 - All students are automatically awarded 1 point
-    - 1 point subtracted per missed lecture
+    - 0.1 point subtracted per missed lecture
 - Written answers to test grasp of reading assignments
 
 
