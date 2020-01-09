@@ -62,9 +62,11 @@ output:
 
 # What is this course about?
 
-## Intro to sociological explanations of crime and deviance
-- Most criminological theories take a sociological approach
-- How social context influences people's likehood to engage in crime
+## Intro to fundamental
+- Terms
+- Concepts
+- Issues
+- Findings
 
 ## Evaluation
 
@@ -74,7 +76,7 @@ output:
 - Attendance and participation (10%)
 - Poster Assignment (30%)
 
-## Scehdule
+## Schedule
 ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/course_schedule.JPG)
 
 ## Exams (25% each)
@@ -86,7 +88,7 @@ output:
 - 9 lectures with in-class questions (1 point per lecture)
     - 1 pt/lecture = 9 points
 - All students are automatically awarded 1 point
-    - 1 point substracted per missed lecture
+    - 1 point subtracted per missed lecture
 - Written answers to test grasp of reading assignments
 
 
@@ -137,7 +139,7 @@ output:
 - Not allowed during exams
 
 ## Recording, Sharing and Selling Lectures, Lecture Notes and Course Material
-- You are not authorized to record or photpgraph my lectures
+- You are not authorized to record or photograph my lectures
 - You are not authorized to sell or post lectures or notes
 - We must abide by Canada's Copyright Act and UFV's copyright policies
 
