@@ -77,12 +77,12 @@ output:
 ## Scehdule
 ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk01/course_schedule.JPG)
 
-##Exams (25% each)
+## Exams (25% each)
 - All multiple choice and true/false
 - Written in class
 - Final is not cumulative
 
-##Weekly in-class questions (10%)
+## Weekly in-class questions (10%)
 - 9 lectures with in-class questions (1 point per lecture)
     - 1 pt/lecture = 9 points
 - All students are automatically awarded 1 point
@@ -90,21 +90,21 @@ output:
 - Written answers to test grasp of reading assignments
 
 
-##Attendance and participation (10%)
+## Attendance and participation (10%)
 - Stay for entire lecture
 - Quality of contributions to class discussion
 - Effort in class exercises
 - Scholarly and non-disruption behaviour
 
-##Poster presentation (30%)
+## Poster presentation (30%)
 - Infographic poster to communicate scientific research findings and concepts on a crime-related issue.
 - Five graded tasks submitted throughout course
 - Virtual presentation
 - Instructions next week
 
-#Course policies
+# Course policies
 
-##Extensions and Absences
+## Extensions and Absences
 - Exceptional AND unanticipated circumstances
     - Beyond anyone's control
     - Significantly affect capability to comply with deadline/attendance
@@ -114,34 +114,34 @@ output:
     - Work commitments
     - A cold, etc.
 
-##In case of exception + unanticipated circumstances
+## In case of exception + unanticipated circumstances
 - Contact me ASAP
 - Gather and provide adequate documentation
 
-##How can you contact me?
+## How can you contact me?
 - Book an appointment (Mondays)
 - Email me (if you can't come on Mondays)
     - Allow 48 hours for response
     - Email not checked evenings, weekends, or holidays
 
-##Which emails have a lower chances of being replied?
+## Which emails have a lower chances of being replied?
 - Question already answered in course material or UFV website
 - Not sent from UFV email
 - Student name and id number not included
 - Course number and section not included
 - Unprofessional, impolite, and discourteous emails 
 
-##Use of mobile phones, tablets, laptops
+## Use of mobile phones, tablets, laptops
 - Laptops/tablets for taking notes only
 - Phones have to be stored away and set to silent mode
 - Not allowed during exams
 
-##Recording, Sharing and Selling Lectures, Lecture Notes and Course Material
+## Recording, Sharing and Selling Lectures, Lecture Notes and Course Material
 - You are not authorized to record or photpgraph my lectures
 - You are not authorized to sell or post lectures or notes
 - We must abide by Canada's Copyright Act and UFV's copyright policies
 
-##You are expected to:
+## You are expected to:
 - Attend and participate in lecture
 - Be on time
 - Behave in a professional and scholarly manner
@@ -149,3 +149,6 @@ output:
 - Complete reading assignments
 - Submit assignments on time
 
+## student services at UFV
+- A list of services for students can be found at http://www.ufv.ca/studentservices.htm
+- Students with documented disabilities requiring academic and/or exam accommodation should contact Centre for Accessibility Services (https://www.ufv.ca/accessibility/)
