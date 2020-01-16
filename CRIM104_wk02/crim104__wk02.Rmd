@@ -1,0 +1,21 @@
+---
+title: "The Roots of Criminological Theory"
+author: "CRIM 104 - Winter 2020"
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: moon
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+---
+
+# Today's topics
+- What is a theory?
+- How can you distinguish a GOOD theory?
+- Theories as part of a larger context
+
+# 
