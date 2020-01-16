@@ -18,4 +18,32 @@ output:
 - How can you distinguish a GOOD theory?
 - Theories as part of a larger context
 
-# 
+# What is a theory?
+
+## The front row is always empty
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk02/empty_desks.jpg)
+
+## Backrow is always overcrowded
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk02/crowded_backrow.jpg)
+
+## The essence of theories
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk02/theories_01.jpg)
+
+## In the context of crime?
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk02/theories_02.jpg)
+
+
+## Everyday theories are based on:
+
+- Popular Belief
+- Value-driven Explanations
+- Speculation
+- Opinion
+
+## Scientific theories
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk02/theories_03.jpg)
+
+## Factual vs proven
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk02/95confidence.png)
+
+
