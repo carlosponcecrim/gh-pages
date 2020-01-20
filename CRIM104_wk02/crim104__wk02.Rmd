@@ -5,7 +5,7 @@ output:
   revealjs::revealjs_presentation:
     transition: slide
     incremental: true
-    theme: moon
+    theme: night
     reveal_options:
       slideNumber: true
       previewLinks: true
@@ -15,7 +15,7 @@ output:
 
 # Today's topics
 - What is a theory?
-- How can you distinguish a GOOD theory?
+- How can to distinguish a GOOD theory?
 - Theories as part of a larger context
 
 # What is a theory?
@@ -23,8 +23,9 @@ output:
 ## The front row is always empty
 ![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk02/empty_desks.jpg)
 
-## Backrow is always overcrowded
+## Back row is always overcrowded
 ![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk02/crowded_backrow.jpg)
+
 
 ## The essence of theories
 ![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk02/theories_01.jpg)
@@ -45,5 +46,74 @@ output:
 
 ## Factual vs proven
 ![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk02/95confidence.png)
+
+# How can to distinguish a GOOD theory?
+
+## The criteria most often used today are:
+- Testability
+- Best fit to research evidence
+
+##  Other criteria for good theory:
+- Logical soundness
+- Ability to make sense of conflicting positions
+- Sensitizing qualities
+- Popularity 
+
+# Theories as part of a larger context
+
+## Theories differ in terms of:
+- What they try to explain
+- The type of approach they take
+- What they focus on
+- What they cover
+
+## Two General Types of Criminological Theories
+- Unit Theory
+    - Focus on one phenomenon
+    - Testable
+- Metatheory
+    - Focus on perception of reality
+    - Rarely testable
+
+## Levels of Abstraction in Theory
+
+- A macrotheory is the most abstract
+    - Social structure
+    - Crime rates
+    - Epidemiological
+- A bridging theory is somewhat abstract, less than a macrotheory, more than a microtheory
+- A microtheory is the least abstract
+    - Etiological
+    - Based on views of society to explain criminal behaviour
+
+## Other Ways to Classify Theories
+
+- Classical vs. Positivist
+- Structural vs. Processual
+- Consensus vs. Conflict
+
+## Trendy?
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk02/babypics.jpg)
+
+## Social & Intellectual Context Shape Theories
+
+- Social Context: Events and beliefs of the times
+- Intellectual Context: Books, mentors, and influences important to the theorist
+
+## Theory and policy
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk02/theoryresearchpolicy.jpg)
+
+
+# Key concepts
+- Unit theory
+- Testable 
+- Logical soundness
+- Metatheory
+- Macrotheory
+- Bridging theory
+- Microtheory
+
+
 
 

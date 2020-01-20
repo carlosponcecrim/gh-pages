@@ -1,0 +1,178 @@
+---
+title: "What is criminology?"
+author: CRIM 100
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: moon
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+
+## Today's topics
+- What is criminology and how did it emerge?
+- Criminology as a multidisciplinary social science
+
+# The emergence of criminology as a discipline
+
+## What is criminology? 
+- It's the scientific study of crime
+
+- Criminology is NOT:
+    - The same as criminalistics
+    - The same as criminal profiling
+    - An investigative technique used by detectives
+    - A course you take to learn how to get away with a crime
+
+## How did criminology emerge?
+      
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_sick_cold.jpg)
+
+
+## Infected
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_contagio.jpg)
+  
+## Syntoms
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_sintoma.jpg)
+  
+## Diagnosis
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_doctor.jpg)
+
+## Treatment
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_medicina.jpg)
+  
+## Cured
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_happydance.gif)
+
+
+## Social backdrop
+
+- Urbanization & industrialization
+    - Massive influx of people from rural areas and other countries
+- Percentage of young men increased
+- Birth control & divorce rate
+- Culture change
+
+
+## Crime increase
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_crimeincrease.jpg)
+
+## Emergence of criminology programs
+
+- 1963
+    - University of Montreal
+    - University of Toronto
+- 1967
+    - University of Ottawa
+- 1973
+    - Simon Fraser University
+    
+## Policies, programs & interventions
+
+- Community programs
+- Correctional treatments
+- Community policing
+- Hot spot policing
+- Crime prevention through environmental design (CPTED)
+- Situational crime prevention (SCP)
+
+
+## Effective results?
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_crimedrop.jpg)
+  
+
+# Criminology as a multidisciplinary 
+
+
+
+## Blank canvas 
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_blankcanvas.jpg)
+
+## People in the front
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_cp_front.jpg)
+
+## People in the right
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_cp_side1.jpg)
+
+
+## People in the left
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_cp_side2.jpg)
+
+## Multiple perspectives
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_microscope.jpg) 
+  
+## Crime in Criminology
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_crime_blood_sample.png =100x)
+  
+  
+## What influences how we explain crime?
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_intellectual_social_context.png)
+
+## The Classical School 
+### Enlightenment--mid 1700s to late 1700s
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_classicalschool.jpg)
+
+## The Positivist School
+### Rise of social Darwinism - science & medicine - Mid 1800s into 1900s
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_evolution.jpg)
+
+
+##  MAINSTREAM CRIMINOLOGY - Chicago School, Anomie-Strain, Control
+### Multiple social changes - 1900-early 1960s
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_mainstreamcrim.jpg)
+
+## CRITICAL CRIMINOLOGY - Labelling, conflict, Marxist, feminist, white-collar
+### Social turmoil - 1965-late 1970s
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_civilrights.jpg)
+
+## Opportunity theories - RAT, Rational choice, Environmental criminology
+### Conservative era - 1980s-early 1990s and beyond
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_conservativeera.jpg)
+
+## Biosocial, Life-course/developmental
+### Technological advancements - 2000 to present
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_biosocial.jpg)
+
+## Criminological theory 
+
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_crimperspectives.png)
+
+# Content Review
+
+## Key concepts and terms
+
+- Multidisciplinary social science
+- Criminology
+- Criminalistics
+- Criminal profiling
+- Situational Crime Prevention (SCP)
+- Crime prevention through environmental design (CPTED)
+
+
+
+
+
