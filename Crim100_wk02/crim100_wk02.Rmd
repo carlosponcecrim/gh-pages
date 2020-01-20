@@ -5,7 +5,7 @@ output:
   revealjs::revealjs_presentation:
     transition: slide
     incremental: true
-    theme: moon
+    theme: night
     reveal_options:
       slideNumber: true
       previewLinks: true
@@ -120,7 +120,7 @@ output:
   
 ## Crime in Criminology
 
-  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_crime_blood_sample.png =100x)
+  ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_crime_blood_sample.png)
   
   
 ## What influences how we explain crime?
