@@ -21,11 +21,9 @@ output:
 # The Classical School
 
 ## The Classical School in brief
-- A movement of reform that favored legislating of a balanced criminal code of law 
-- Developed the first organized thoughts on
-    - Crime
-    - Criminals
-    - A criminal justice system
+- An 18th century movement of reform that favored legislating of a balanced criminal code of law 
+- Developed the first organized thoughts on crime, criminals and criminal justice
+- Influenced by events in European culture and society (1500s-1700s)
 - Major contributors
     - Cesare Beccaria (1738-1794)
     - Jeremy Bentham (1748-1832)
@@ -109,6 +107,184 @@ output:
 - Severity: Amount or degree of punishment, relative to the act
 
 
+# Positivist School of Criminology
+
+## Positivism
+- Not a theory but a philosophy 
+    - Use of science in regulating the world
+- Basic features
+    - Systematic observation
+    - Accumulation of evidence
+    - Objective fact
+    - Deductive framework
+
+## The Positivist School in brief
+- First scientific perspective on crime & criminals
+- Emphasis on empiricism and valued scientific expertise
+- Determinism
+
+## Positive School Influences
+- Rise of science as influential form of knowledge
+- The work of Darwin in evolution & social Darwinism
+- Cartographics and “social statistics”
+- Anthropological evidence from “primitive” peoples
+- Idea of perfecting humankind through science
+
+
+## Early Biological Positivism
+- Physiognomy 
+    - Body characteristics assumed related to behavior
+- Phrenology
+    - Head structure (“bumps on the head”) 
+    - Assumed related to behavior
+    
+## Main Contributors
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/lombroso.JPG)
+
+## Main Contributors
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/ferri_garofalo.JPG)
+
+## Research on the physical features of criminals
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/physical_features.JPG)
+
+## Psychogenic Causes of Crime
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/psychogenic_causes.JPG)
+
+## Eugenics and Psychological Movements
+
+- Popular ideas spread from biological work:
+    - Dangerous classes
+    - Criminals are degenerates
+- Eugenics movement spread from atavist concept
+- Studies used cases where criminal lineage was traced
+    - Dugdale:  The Jukes, 1877
+    - Goddard:  The Kallikaks, 1912
+
+# Modern biological approaches
+
+## Current biological approach
+<section>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OAmllmPoBN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+
+## Evolution of biological approaches
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/evolution_biology.JPG)
+  
+## Twin and adoption studies
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/twin_adoption.JPG)
+
+## Brain chemestry
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/brainchem.JPG)
+
+# Anomie Theory
+
+## Emile Durkheim (1857-1917)
+- French philosopher
+- Sociology was new, positivist field
+- Social structure and social determinism
+- Individual as product of the society
+- Saw society as evolving
+    - After French revolution–rapid industrialization
+
+## Agrarian society
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/agrarian.jpg)
+
+## Industrialized society
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/industrial.jpg)
+
+## Durkheim’s Perspective
+
+- Society’s evolution: from mechanical solidarity to organic solidarity
+- Evolution destabilizes equilibrium
+- Organic societies have continual state of anomie (lawlessness)
+- Balance forces integration and forces of regulation = balance
+
+## Durkheim's view on crime
+
+- Crime is normal, serves function of helping society develop order
+- Punishment necessary to ensure protection of norms, maintains social solidarity
+- Focus on social conditions where rules lose value
+- Without a regulated society as a guide, individuals are confused & can’t adjust; this is anomie
+
+# Anomie-strain theory 
+
+## Anomie-strain theory in brief
+- Robert Merton (1938)
+- Focused on social structure & cultural disparities in American society
+- Studied relationship between social structure and opportunity, particularly for African Americans
+- Saw strain from social disjunction between goals and means of society
+    - Goals: what one should strive for (money, success, status)
+    - Means: ways of attaining goals (approved and not)
+
+## Anomie-strain theory - Main premises
+- American Dream
+    - Over emphasis on the accumulation of wealth as a measure of success
+- Access to legitimate means is unequally distributed
+- Problems matching goals/means 
+- Social class pyramid keeps poor on bottom
+- Society is contract-based
+- Crime and deviance result as people adapt to unequal access to means to reach success  
+
+## Modes of adaptation to strain
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/adaptation.JPG)
+
+
+## Main influences
+
+- Conditions produced by Great Depression
+- Govt. response: change social structure, create work programs, create and collect social data
+- Durkheim and social-structure ideas
+- Competition between Chicago School and “East Coast” sociology
+- Parson’s grand theory 
+    - Fit with Durkheim’s structural-functionalist ideas, suggested rates of crime in society need to be explained, not individual crime
+
+# Strain based theories
+
+## General Strain Theory 
+- Agnew (1985)
+- Basic premise:
+    - Teens experience other, more immediate sources of strain (appearance, popularity, school, etc)
+- Strain experienced by teens 
+    - Introduction of negative stimuli
+    - Removal of positive stimuli
+- Strains may lead to frustration, anger, and delinquency 
+
+
+## Institutional Anomie Theory
+- Steven Messner and Richard Rosenfeld (1994)
+- Main premise:
+    - Failure of social institutions (political system, education, family, and the economy) to integrate and regulate the pursuit of goals in a capitalist society
+- Institutional imbalance (institutional-anomie), in which the economy dominates political system, education, and the family
+    - This leads to an amoral “ends justifies the means” attitude in society 
+
+# Summaries
+
+## Classical School
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/classical_.JPG)
+
+## Positivist School
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/positivist_.JPG)
+
+## Emile Durkheim
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/emile_durk.JPG)
+
+## Anomie Strain Theory
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/anomie_strain.JPG)
+
+# Important content
+
+## Key concepts and terms
+|                 |                      |                     |
+| -------------   |:---------------------|:-------------------:|
+| Free will       | Phrenology           | Anomie              |
+| Hedonism        | Psycoanalysis        | Modes of adaptation |
+| Utilitarianism  | Feebleminded         | Retreatism          |
+| Due process     | Atavists             | Innovation          |
+| Social contract | Eugenics             | Rebellion           |
+| Deterrence      | Concordance rates    | Conformity          |
+| Positivism      | Neurotransmitters    | Ritualism           |
+| Determinism     | Forces of regulation |                     |
+| Physiognomy     | Forces of integration|                     |
 
 
 
