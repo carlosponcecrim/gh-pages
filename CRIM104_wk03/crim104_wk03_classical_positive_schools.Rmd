@@ -1,0 +1,114 @@
+---
+title: "Classical and Positivist Schools of Criminology"
+author: CRIM 104
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+## Warning
+<section>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ouqeCtX6mE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+
+# The Classical School
+
+## The Classical School in brief
+- A movement of reform that favored legislating of a balanced criminal code of law 
+- Developed the first organized thoughts on
+    - Crime
+    - Criminals
+    - A criminal justice system
+- Major contributors
+    - Cesare Beccaria (1738-1794)
+    - Jeremy Bentham (1748-1832)
+
+## How was crime handled before?
+<section>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lOpGnwYP8PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+
+## Social context of the Classical School
+
+- Diminished power of the aristocracy & Church
+- Rising middle class, mercantilism & industrial revolution
+- Exploration of humanity
+- Capricious and cruel criminal justice system
+
+
+## Intellectual context of the CLassical School
+
+- Humanist philosophy – all men were free and had natural rights
+- Philosophy of social justice
+- Critique of harsh & barbaric government
+- Reforms encouraged
+- Education & enlightenment (belief in power of human reason – logic )
+
+## Important features
+- Not really a theory of crime causation
+- Focused on how to address crime 
+    - Punishment should be just, fair, proportionate & less cruel
+    - Laws should be clear and impartial, equitable with less discretion
+
+# Guiding premises of the Classical School    
+
+## Free will
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/freewill.jpg)
+
+## Hedonism
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/hedonism.jpg)
+
+## Rational punishment rather than revenge
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/rational_punishment.JPG)
+
+## Utilitarianism
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/utilitarianism.jpg)
+
+## Due process
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/due_process.jpg)
+
+## Social contract
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/social_contract.jpg)
+
+## Social contract
+- A political philosophy to justify government
+- A contract that exists between the state & its citizens
+- State exists to serve the citizens
+- State can only exercise authority granted by citizens
+- Individuals surrender to the state only the limited rights necessary to ensure protection of all citizens
+- Life cannot be surrendered
+
+## Deterrence
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk03/deterrence.png)
+
+## Forms of deterrence
+
+- Specific deterrence
+    - Legal punishment given directly to offender
+    - Designed to remove gains 
+    - Individual assesses lack of gain & decides not to repeat similar acts
+
+- General deterrence
+    - Others aware of an individual being punished
+    - Realize no gains from violation of law
+    - Assumes public nature of punishment
+
+## Elements of deterrence
+
+- Celerity: Speed with which punishment is applied after act occurs
+
+- Certainty: Likelihood of being caught and punishment being applied
+
+- Severity: Amount or degree of punishment, relative to the act
+
+
+
+
+
