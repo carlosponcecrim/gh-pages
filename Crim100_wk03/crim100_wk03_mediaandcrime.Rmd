@@ -1,0 +1,129 @@
+---
+title: "The media and crime"
+author: CRIM 100
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+## Creepy clowns
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/clowndramatic2.jpg)
+
+## Reports of clown sightings
+<section>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vr7GWdoXt_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+
+## By the end of this lecture you will be able to answer the following questions:
+- What are the main criminological perspectives regarding crime in the media?
+- How can crime in the media lead to moral panics?
+- Does the media potray offenders, victims, and the police a certain way?
+
+# What are the main criminological perspectives regarding crime in the media?
+
+## The media?
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/themedia.jpg)
+
+## Ban of evil content
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/proscribed_media.jpg)
+
+## Media effects
+Effect or influence that results from the exposure to media content.
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/media_effects.jpg)
+
+
+## Evolution of criminological perspective on crime in the media
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/evolution_media_crime_nexus.jpg)
+
+## Who would get in an elevator with late at night?
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/madoff_tib.jpg)
+
+## Who would get in an elevator with late at night?
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/madoff_btk.jpg)
+
+## Cultural criminology
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/culturalcrime_cime_themedia.jpg)
+
+# How can crime in the media lead to moral panics?
+
+## Creating stories 
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/travesura.jpg)
+
+## The production of crime news
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/prod_crime_news.jpg)
+
+## Moral panics
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/perception_reality.jpg)
+
+## Moral panics 
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/moral_panic.jpg)
+
+## Stanley Cohen
+- Wrote “Folk Devils and Moral Panics: The Origins of the Mods and Rockers”
+- Popularized the term
+- Identified crucial role of the media
+- The media as moral entrepreneurs
+
+## Models of moral panics
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/moral_panic_models.jpg)
+
+## Criminalization and decriminalization
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/deviance_crime.jpg)
+
+# Does the media potray offenders, victims, and the police a certain way?
+
+## Bad guys
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/bad_guys.jpg)
+
+## Portrayal of bad guys includes
+- Stereotyping (ethnic, racial, young offenders, female, etc.)
+- Conveyed as “other”
+
+## Victims
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/victims.jpg)
+
+## Portrayal of victims includes:
+- Features of the ideal victim
+    - Weak
+    - Going about routine
+    - Blameless
+    - Unrelated to offender
+    - Submissive position
+    - Power/empathy: victim status
+    
+## Good guys
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk03/good_guys2.jpg)
+
+## Portrayal of good guys includes
+- Conveying the police as heroes
+- Hiding the darker side of policing
+- Projecting a false sense of effectiveness
+
+# Important content
+
+## Key concepts and terms
+
+- The media
+- Critical thinking
+- Media effects
+- Cultural criminology
+- Active audiences
+- Problem frame
+- Moral panics
+- Folk devils
+- Moral entrepreneurs 
+- Stereotyping
+- Ideal victims
+
+
+
+
