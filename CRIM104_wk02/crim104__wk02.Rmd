@@ -15,7 +15,7 @@ output:
 
 # Today's topics
 - What is a theory?
-- How can to distinguish a GOOD theory?
+- How to distinguish a GOOD theory?
 - Theories as part of a larger context
 
 # What is a theory?
