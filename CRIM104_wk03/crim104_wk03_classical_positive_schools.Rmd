@@ -28,11 +28,6 @@ output:
     - Cesare Beccaria (1738-1794)
     - Jeremy Bentham (1748-1832)
 
-## How was crime handled before?
-<section>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lOpGnwYP8PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</section>
-
 ## Social context of the Classical School
 
 - Diminished power of the aristocracy & Church
