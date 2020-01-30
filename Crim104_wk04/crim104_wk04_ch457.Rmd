@@ -51,10 +51,14 @@ output:
 ![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/heavy_metal02.gif)
 
 ## This is more accurate
-![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/weird_al.jpg)
+![very good|512x397,20%](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/weird_al.jpg)
 
 ## Just hanging out
 ![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/heavy_metal01.gif)
+
+## Shaw & McKay's Cultural Transmission Theory
+- Juveniles in socially-disorganized areas have greater exposure to & opportunity for delinquency & crime
+- Existing delinquent/criminal values in area are transmitted to the youth
 
 
 ## Symbolic Interactionism
