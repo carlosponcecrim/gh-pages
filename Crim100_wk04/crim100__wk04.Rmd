@@ -1,5 +1,5 @@
 ---
-title: "Measuring crime, victims of crime, and classifying crime"
+title: "Sources of Canadian Law"
 author: CRIM 100
 output: 
   revealjs::revealjs_presentation:
@@ -13,10 +13,100 @@ output:
       
 
 ---
+## ICE agents approach man outside court
+<section>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Spw-AsTmqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+
+
+## Today's Topics
+
+- Conceptual classifications
+- Sources of law
+- Criminalization of illegal drug use and distribution
+
+
+
+# Conceptual classifications
+
+## Questions that may cross your mind
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk04/questions_laws.JPG)
+
+## Substance and procedure
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk04/substance_procedure.JPG)
+
+## In the realm of Canadian criminal law
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk04/substance_procedure_ca.JPG)
+
+## The law of the land
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk04/lawoftheland.JPG)
+
+## Alignment example
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk04/lawoftheland_example.JPG)
+
+## Origins and changes in the law
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk04/origins_changes_to_law.JPG)
 
 
 ## Judge David Ashworth’s Ted Talk on drug courts
 Identify references to changes in and features of substantive and procedural laws
+<section>
 
-"Measuring crime, victims of crime, and classifying crime"
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Z2GmjlpkHDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</section>
+
+
+# Sources of law
+
+## Sources of Canadian Law
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk04/main_sources_calaw.JPG)
+
+
+## Statute laws
+
+- Written laws that prohibit or mandate certain acts
+- Enacted by a legislative body, such as the Parliament of Canada
+    - Debates
+    - Public hearings
+    - Analysis
+    
+## Case Law
+
+- Established by previous court decisions and based on the rule of precedent
+- Precedent: A judicial decision that may be used as a standard in subsequent similar cases
+- Stare decisis: The principle by which higher courts set precedents that lower courts must follow
+
+
+## Court hierarchy
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk04/court_hierarchy.JPG)
+
+
+## Example: Disclosing HIV Status
+
+- R. v. Cuerrier, [1998] 2 SCR 37 
+    - Non-disclosure of HIV status vitiates the consent of uninformed participants
+    - Turned otherwise "consensual" sex into aggravated sexual assault
+    - Ununiformed participants put at "significant risk of bodily harm“
+- R. v. Mabior, [2012] 2 SCR 584
+    - Consent not vitiated if risk is mitigated (condom + treatment)
+
+## Supervised injection sites
+Identify references to different sources of law
+<section>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YUgiidZ7fiw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</section>
+
+# Criminalization of illegal drug use and distribution in Canada
+
+## Exercise
+- Read through the following section of this week’s reading assignment:
+    - “The criminalization of illegal drug use and distribution: Taking account of the complexities of sources of law”
+- Identify referenced: 
+    - Sources of law
+    - Changes in substantive and procedural laws 
+
+
