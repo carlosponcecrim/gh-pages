@@ -85,9 +85,11 @@ output:
 
 
 ## Edwin Sutherland
-![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/heavy_metal01.gif)
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/edwin_sutherland.JPG)
 
 ## Sutherland's Differential Association
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/dissecting_DA.JPG)
+
 
 ## Differential Association Theory: Nine Propostions
 - Criminal behaviour is learned (just as any other behavior)
@@ -102,6 +104,48 @@ output:
 - Values about certain behaviour may conflict with laws
 - As we receive many statements about values, the weight of those statements (importance and closeness of those who convey them) is more important than actual number of statements
 - Criminal behaviour takes place when weight of the values concerning a particular behaviour is in opposition to the legal codes
+
+## "Goodfellas"
+<section>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4UXJUPigZQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+
+# Subculture Theories
+
+## How does this set of rules and views develop?
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/dissecting_DA.JPG)
+
+## Subcultural Theories
+- Proposed 1950s-1960s
+- These theories focus on: 
+    - Gang delinquency theories (except Subculture of violence theory)
+    - The lower-class
+    - Urban areas
+    - Minorities
+    
+## Today's theories
+- Cohen's Subculture of Delinquecy
+- Cloward & Ohlin's Differential Opportunity Theory
+- Wolfgang & Ferracuti's Subculture of Violence
+
+## Cohen's Subculture of Delinquency
+- Society members share a common value system
+- Value system presents cultural goals, most of which build status
+- Social institutions (schools) use those values in evaluating students
+- Lower-class kids:
+    - Have decreased opportunities to reach goals and build status
+    - Status deprivation leads to frustration (anomie) 
+    - Status frustration creates a reaction formation based on construction of anti-conventional standards and values 
+    - Delinquent solution transmitted from kid to kid
+
+
+
+
+## Cloward & Ohlin's Differential Opportunity Theory
+
+
+## Wolfgang & Ferracuti's Subculture of Violence
+
 
 
 
