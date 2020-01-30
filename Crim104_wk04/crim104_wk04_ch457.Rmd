@@ -51,7 +51,7 @@ output:
 ![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/heavy_metal02.gif)
 
 ## This is more accurate
-![very good|512x397,20%](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/weird_al.jpg)
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/weird_al.jpg)
 
 ## Just hanging out
 ![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/heavy_metal01.gif)
@@ -78,6 +78,31 @@ output:
     - Secondary conflict: subcultures with different values that develop in certain areas
 
 # Differential Association Theory
+
+## Your friend is bad influence!
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/heavy_metal01.gif)
+
+
+## Edwin Sutherland
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim104_wk04/heavy_metal01.gif)
+
+## Sutherland's Differential Association
+
+## Differential Association Theory: Nine Propostions
+- Criminal behaviour is learned (just as any other behavior)
+- Learning takes places in social settings 
+- The largest part of learning takes place with those who are most important to us
+- The intimate social environment provides setting for learning two things: 
+    - How to accomplish behaviour 
+    - How view that behaviour
+
+
+## Differential Association Theory: Main Points
+- Values about certain behaviour may conflict with laws
+- As we receive many statements about values, the weight of those statements (importance and closeness of those who convey them) is more important than actual number of statements
+- Criminal behaviour takes place when weight of the values concerning a particular behaviour is in opposition to the legal codes
+
 
 
 
