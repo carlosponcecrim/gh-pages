@@ -1,0 +1,42 @@
+---
+title: "The Chicago School and Subcultural Theories"
+author: CRIM 104
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+## Brazil's favelas
+<section>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HKleR1wr3cs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+
+## Today's theories
+- Social disorganization theory
+- Cultural transmission theory
+- Differential association theory
+- Subculture of delinquency theory
+- Differential opportunity theory
+
+# The Chicago School
+
+## The Chicago School's context
+- Various social changes led to:
+    - Rapid urbanization 
+    - Increased visibility of poverty
+- Intellectual interests:
+    - Scrutiny of urban poor’s condition
+    - Emphasis on social “science” and scientific studies
+    - Sociological interpretation/application of biological concepts
+        - Often referred to as the Ecological School
+
+
+
+
