@@ -1,0 +1,71 @@
+---
+title: "Measuring crime, victims of crime, and classifying crime"
+author: CRIM 100
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+
+## Crime classifications
+
+- Official typologies
+- Scientific or academic typologies
+
+# Official crime typologies
+
+## Uniform Crime Reporting Survey (UCR)
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk04/questions_laws.JPG)
+
+## UCR History
+
+- Used by the Canadian Centre for Justice Statistics (CCJS) to  collect police-reported crime statistic
+- Operating in Canada since 1962
+- Provides key information for crime analysis, resource planning and program development
+- Has 2 data collection instruments:
+    - UCR 1: collects aggregate data
+    - UCR 2: COllects micrdata on events and participants (referred to as the incident-based survey)
+
+## UCR Crime Typology
+
+- Crimes Against the Person
+- Crimes Against Property
+- Other criminal Code Violations
+- Controlled Drugs And Substances Act
+- Other Federal Statute Violations
+- Criminal Code Traffic Violations
+
+## Aggregated Data vs Disaggregated Data
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk04/questions_laws.JPG)
+
+## Question:
+What are some of the disavantages and advantages of using aggregated vs disaggregated data?
+
+## UCR Crime Typology
+- *Crimes Against the Person:* Unlawful acts perpetrated with the use or threat of use of force and/or result in freedom deprivation
+- *Crimes Against Property:* Unlawful acts perpetrated with the intent of gaining property by without the use or threat of violence.
+- *Other criminal Code Violations:* Neither violent nor property-related offences.
+- *Controlled Drugs And Substances Act:* Unlawful acts related to supply and/or possession of prohibited drugs.
+
+## Violations Causing Death
+
+- Murder 1st Degree
+- Murder 2nd Degree
+- Manslaughter
+
+## Homicide
+- Culpable homicide
+- Non-culpable homicide
+
+## Measuring crime
+- Crime counts – level of crime
+- Crime rates – risk of crime
+- Location quotients of crime – crime specialization
+
