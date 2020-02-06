@@ -22,7 +22,7 @@ output:
 # Official crime typologies
 
 ## Uniform Crime Reporting Survey (UCR)
-![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM_100_wk05/ucr_process.JPG)
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/ucr_process.JPG)
 
 ## UCR History
 
