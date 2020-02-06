@@ -109,4 +109,14 @@ Identify references to different sources of law
     - Sources of law
     - Changes in substantive and procedural laws 
 
+# Important content
+
+## Key concepts and terms
+
+- Substantive law
+- Procedural law
+- Sources of law
+- Case law
+- Statute law
+- Court hierarchy
 

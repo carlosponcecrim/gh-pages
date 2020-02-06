@@ -22,7 +22,7 @@ output:
 # Official crime typologies
 
 ## Uniform Crime Reporting Survey (UCR)
-![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk04/questions_laws.JPG)
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM_100_wk05/ucr_process.JPG)
 
 ## UCR History
 
@@ -43,7 +43,7 @@ output:
 - Criminal Code Traffic Violations
 
 ## Aggregated Data vs Disaggregated Data
-![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk04/questions_laws.JPG)
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/agg_crime_data.JPG)
 
 ## Question:
 What are some of the disavantages and advantages of using aggregated vs disaggregated data?
@@ -65,7 +65,166 @@ What are some of the disavantages and advantages of using aggregated vs disaggre
 - Non-culpable homicide
 
 ## Measuring crime
-- Crime counts – level of crime
+- Crime counts – volume of crime
 - Crime rates – risk of crime
 - Location quotients of crime – crime specialization
+
+
+# Limitations of Official Crime statistics
+
+## Reporting and Recording Choices
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/multi_funnel.JPG)
+
+
+## The Crime Funnel
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/crime_funnel.JPG)
+
+## Constructionist Perspective
+- Focuses on the production of crime statistics
+- Notes how police practices affect crime stats (choosing calls, exercising discretion & policing styles)
+
+## Homicide: Best indicator
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/homicide_bestindicator.JPG)
+
+## Question:
+
+What other crimes do you think have a relatively low dark figure?
+
+## Differences in US Homicides by Sources (Riedel, 1999)
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/riedel_1999.JPG)
+
+## Differences in Canadian Homicides by Sources (Gabor et al, 2002)
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/homicde_canada_diff.JPG)
+
+
+## Quantitative Crime Research
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/quantitative_crime_research.JPG)
+
+## Benefits of victimization surveys (Evans & Leger, 1979)
+- Overcome dark figure problem
+- Impact of crime
+- Victimization risk
+- Victims’ perceptions
+
+## Canada’s victimization surveys
+- General Social Survey (GSS)
+- Violence against women survey (VAWSS)
+- International Crime Victims Survey
+
+## Victimology
+- Sub-field of criminology
+- Focused on victims
+    - VOR
+    - Victim’s experience
+    - CJS
+
+## Evolution of victimology
+- Early theoretical focus:
+    - How do victims contribute to crime?
+- Victim blaming criticisms 
+    - Preventive aim cited as a response
+    - Ultimately more applied approach was adopted that focused on:
+      - Assistance
+      - Victims’ rights
+
+## Victim Centered Theories
+- Victim Precipitation Theory
+- Lifestyle Theory
+- Routine Activity Theory
+
+## Victim Precipitation Theory
+Focused on explaining how victims’ actions or inactions lead to their victimization
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/baby_precipitation.jpg)
+
+
+## Lifestyle Theory
+- Its main premise is that differences in risks of victimization are associated with differences in lifestyles. 
+    - Equivalent group hypothesis
+    - Proximity hypothesis
+    - Deviant place hypothesis
+
+
+## Routine Activity Theory
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/RAT.JPG)
+
+
+# Academic Typologies
+
+## Historical Roots
+
+- Lombroso’s (1876) 6 types offenders
+    - The born criminal
+    - The epileptic criminal
+    - The criminal of irresistible passion
+    - The insane or feebleminded criminal
+    - The occasional criminal
+    - The persistent and non-abnormal type of criminal
+
+
+## The Formulation of Typologies Requires
+- Maximization of intra-group homogeneity
+- Maximization inter-group heterogeneity
+- Using defined attributes as discrimination criteria
+- Theoretical basis
+- Systematic observation and evaluation
+    - Qualitative or quantitative methods
+    
+## Grouping Criteria
+- Victim characteristics 
+- Offenders characteristic
+- Nature of victim-offender relationship 
+- Event circumstances and characteristics 
+- Motivation 
+
+## Homicides
+- Parricide
+- Infanticide
+- Feminicide
+- Spree homicide
+- Serial homicide
+
+## Fesbach’s (1964) typology 
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/fesbach_typology.JPG)
+
+## Sexual Murder typologies
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/sexual_murderers_beuregard2007.png)
+
+## Policy Benefits and Uses
+- Risk levels
+- Treatment 
+- Controls for targeted offender groups
+
+
+# Important content
+
+## Key concepts and terms
+
+- Uniform Crime Reporting Survey (UCR)
+- General Social Survey (GSS)
+
+- Murder 1st Degree
+- Murder 2nd Degree
+- Manslaughter
+- Culpable homicide
+- Non-culpable homicide
+- Crime counts
+- Crime rates
+- Location quotients of crime
+- The Crime Funnel
+- The dark figure of crime
+- The dark figure of reporting
+- COnstructionist perspective
+- Spree homicide
+- Serial homicide
+- Expressive and instrumental crimes
+- Victimology
+- Victim Precipitation Theory
+- Lifestyle Theory
+- Routine Activity Theory
+
+
+
+
 
