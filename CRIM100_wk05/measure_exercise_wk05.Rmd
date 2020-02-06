@@ -1,0 +1,47 @@
+---
+title: "Measuring crime - Exercise"
+author: CRIM 100
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+
+## Homicides in Canada
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/table_crime_stats.JPG)
+
+## Crime Count
+
+Crime counts measure the volume of crime at a given location.
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/crime_count_form.JPG)
+
+## Homicide Count
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/homicides.jpg)
+
+
+## Crime Rate
+Crime rates measure the risk of crime at a given location accounting for the amount of people at risk (population size)
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/crimerate_form.JPG)
+
+
+## Homicide Rate
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/homicide_rate.jpg)
+
+## Location Quotient of crime
+Measures level of criminal specialization in a given location by determining if offence types are overrepresented or underrepresented.
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/lq_form.JPG)
+
+## Location Quotient of Homicide
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk05/homicides_lqc.jpg)
+
+
