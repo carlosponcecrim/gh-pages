@@ -1,0 +1,202 @@
+---
+title: "Bedtime story"
+author: CRIM 104
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+
+## Story time!
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page1.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page2.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page3.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page4.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page5.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page6.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page7.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page8.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page9.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page10.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page11.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page12.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page13.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page14.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page15.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page16.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page17.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page18.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page19.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page20.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page21.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page22.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page23.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page24.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page25.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page26.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page27.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page28.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page29.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page30.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page31.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page32.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page33.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page34.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page35.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page36.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page37.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page38.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page39.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page40.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page41.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page42.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page43.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page44.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page45.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page46.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page47.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page48.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page49.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page50.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page51.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page52.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page53.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page54.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page55.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page56.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page57.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page58.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page59.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page60.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page61.jpg)
+
+## The Princess & Mr. Whiffels
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/bedtimestory/bedtimestory_Page62.jpg)
+
