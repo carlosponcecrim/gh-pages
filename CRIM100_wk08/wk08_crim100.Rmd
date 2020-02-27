@@ -77,6 +77,79 @@ output:
     - Two main types of policing agreements:
         - Self-administered Agreements. Cmmunity manages its own police service
         - Community Tripartite Agreements. Dedicated contingent of officers from an existing police service.
+        
+        
+## Private policing
+- Regulated by provincial licensing and registration system 
+- Concerns:
+    - Violation of individual rights
+    - Continued blurring between private & public policing
+
+# Corrections
+
+## Ontario's correctional issues
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/JRMO2PPnNzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Sentences in Canada
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk08/probation.jpg)
+
+
+## Organization of the correctional system
+
+- Provincial institutions
+    - Sentences of 2 years less 1 day
+- Federal institutions
+    - Sentence of 2 years or more
+    - Correctional Service Canada (CSC)
+
+## Aboriginal Offenders
+
+- Overrepresentation of aboriginals in the correctional system
+- Gladue decision
+    - A decision by the SCC that held that when a term of incarceration would normally be imposed, judges must consider the unique circumstances of Aboriginal people
+
+## Special Inmate Populations
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk08/special_pops.JPG)
+
+## Other challenges
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk08/other_challenges.JPG)
+
+## Inmate Social System
+
+- Inmate Subculture: Patterns of interaction and the relationships that exist among inmates
+
+- Prisonization: Process by which inmates become socialized into the norms, values, and culture of the prison
+
+- Institutionalization: Inmates who have become prisonized to such a degree that they are unable to function in the outside free community
+
+
+## Correctional programs
+- Upon admission, inmates assessed and a correctional plan is developed
+    - Plan outlines relevant programs and activities
+- Programs include: Living skills, violence prevention, substance abuse prevention, family violence prevention, sex offender treatment, employment readiness
+- Poor access to programs
+- Rehabilitative and treatment programs from the CSC are among
+the best in the world.
+
+
+# Important content
+
+## Key terms
+- Public and private policing
+- Responsibilization strategies
+- Crime complex
+- Levels of police
+- Federal and provincial institutions
+- Gladue decision
+- Special inmate populations
+- Inmate subculture
+- Prisionization
+- Institucionalization
+- Harm reduction
+
     
 
     
