@@ -1,0 +1,128 @@
+---
+title: "Social Control Theories and Social Learning Theories"
+author: CRIM 104
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+#Social Control Theories
+
+## In which way is this theory different?
+- Deviant behavior is to be expected
+- Central question: Why do people obey rules?
+- Focus on socialization - also called the socialization theory
+
+## Social and intellectual contexts
+- Social
+    - Liberal movement slowed down
+    - 1970s were increasingly conservatve
+- Intellectual
+    - Influence of Chicago School, particularly social disorganiaztion
+    - Reaction to labeling and conflict perspectives
+    - Increasing attention to criminal justice
+    - Self report surveys
+
+## Durkheim’s Social Control Theory
+- A certain number of deviants and deviance is normal
+- Behavior is controlled by social reaction (displeasure, punishment)
+- Crime serves a boundary maintenance social function 
+
+## Reiss's personality-oriented Social control
+- Combined concepts of personality and socialization with the work of the Chicago School
+- Suggested that three components of social control explained delinquency:
+    - A lack of proper internal controls developed during childhood
+    - A breakdown of those internal controls;
+    - An absence of, or conflict in, social rules provided by important social groups (the family, close others, the school)
+    
+## Reckless's containment theory
+- Explains delinquency as the interplay between two forms of control: internal (inner) and external (outer)
+- *Inner containment:* components of the “self” (e.g.,  self-control, good self-concept, ego strength, well-developed superego, etc.)
+- *Outer containment:* the social environment (e.g., family and school reinforcement of social norms and values, effective supervision and discipline, etc.)
+- Inner containment viewed as the most important control
+
+## Social bonding theories
+- Techniques of neutralization
+- Drift theory
+- Social bond theory
+
+## Sykes & Matza's Techniques of neutralization
+- Critique of Cohen’s subculture theory: everyone, even the lower-class gang delinquent, is bound to the dominant value system of society
+- Techniques of neutralization are used to free us temporarily from commitment to societal values: 
+    - *denial of responsibility, denial of injury, denial of the victim, condemnation of the condemners, and appeal to higher loyalties*
+    
+## Matza’s Drift theory 
+- Use of neutralization techniques locates person in state of drift were he/she decides to conform or engage in deviant act
+- Decision to engage in deviant act is guided by 2 activitating conditions:
+    - *Preparation.* Repetition of old behaviour
+    - *Desperation.* Precipitates new behaviour
+
+## Hirschi’s Control Theory
+- Known as “social bonding” theory
+- The power of internalized norms, conscience, and the desire for approval encourage conventional behavior.
+- Broken or weaken bonds free individuals to engage in delinquency
+- Types of bonds
+    - *Attachment*
+    - *Involvement*
+    - *Commitment*
+    - *Belief*
+
+# Social learning theories
+
+## Based on operant-based learning theory
+- Behavior is a product of present and past events in the life of the individual
+- Reinforcement and punishment (aversive stimuli) determine whether the frequency of any particular behavior is increased or diminished
+- Six basic principles: *Positive reinforcement, negative reinforcement, positive punishment, negative punishment, discriminative stimuli, and schedules.*
+- Modeling (or imitation). Process of learning by observing the behavior of others. Central to these theories. 
+
+## Social and intellectual contexts
+
+- Social 
+    - Popularity of behavioral theories in psychology in the 1960s
+    - Behavioural modification adapted to classroom and correctional settings
+- Intellectual
+    - Behavioural psychology’s behaviour modification
+    
+## Most popular social learning theories in criminology
+
+- Jeffery direct application of popular operant-based psychological learning theories 
+- Aker’s reformulation of differential association 
+- Both rely on behavioural psychology
+
+
+## Jeffery’s Differential reinforcement theory
+- Added the concepts of *satiation* and *deprivation* to his discussion of the 6 principles of social learning
+- Suggests a stimulus will be more or less reinforcing depending on the individual’s current condition.
+- People's experiences are different so their conditioning histories are different.
+- Crime can serve as a reinforcer so social interaction is not necessary for reinforcement
+
+## Aker’s social learning theory
+- Reformulated differential association into 7 propositions which were called differential association-reinforcement theory
+- Social environment as the most important source of reinforcement
+- Definitions of behavior are the moral components of social interaction that establish if something is right or wrong
+- Definitions serve a discriminative stimuli
+
+
+# Important content
+
+## Key terms
+
+- Socialization theory
+- Inner and outer containment
+- Denial of responsibility, denial of injury, denial of the victim, condemnation of the condemners, and appeal to higher loyalties
+- Drift
+- Attachment, involvment, commitment, and belief
+- Differential reinforcement
+- Positive reinforcement, negative reinforcement, positive punishment, negative punishment, discriminative stimuli, and schedules
+
+
+
+
+

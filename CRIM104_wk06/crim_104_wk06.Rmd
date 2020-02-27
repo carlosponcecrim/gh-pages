@@ -1,0 +1,89 @@
+---
+title: "Labeling theory"
+author: CRIM 104
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+
+
+## Challenged previous explanations
+- Off-shoot of older theories (particularly *symbolic interactionism*) that challenged previous definitions of deviance, noting that:
+    - Earlier theories placed too much emphasis on the individual deviant and neglected to look at reaction to deviance
+    - Illegality of some acts is not universal, which questions the notion that people who commit crimes are inexorably bad 
+
+## Focus on social reaction to deviance
+
+- *Also known as the social reaction school:* Argues that what matters is how society reacts to deviant acts
+- Developed into 2 perspectives which focus on:
+    - The way in which people react to and label others
+    - The effect of the label has on the labeled 
+    
+## Social and intellectual context
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk06/theory_context.JPG)
+
+## Early labeling theory literature
+
+- Frank Tannenbaum’s 1938 book Crime and the Community:
+    - Criminal behavior is a product of conflict between a group and the community at large with opposing definitions of appropriate behavior
+    - “Tag”  attached to child caught in delinquent activity. 
+    - The "tag" may change the child’s self-image and causes people to react to the it, not the child.
+
+## Definition of Crime (Becker)
+- Different conceptions of what is right and proper
+- Deviant act = criminal act only if law reflects the values of group that considers act deviant
+
+
+## Labeling as a result of Societal reaction
+- Label treated as the dependent variable
+- Deviance is a product of others applying rules and laws to a presumed offender
+- Types of deviant behaviour:
+    - Falsely accused acts
+    - Pure deviant acts 
+    - Conforming acts
+    - Secret deviant acts
+
+## Labeling as a cause of deviance
+
+- Label as an independent variable treated as independent variable
+- Two ways in which this may take place: 
+    - Labeling audience are more aware of individual and continue labeling him/her
+    - Label internalized by the individual which leads to an acceptance of a deviant self-concept
+
+## Lemert’s Secondary deviance
+- Individual responses to society's reaction vary
+- Individual does not identify the initial act (primary deviance) as an important part of self-image. 
+- If original self-image is weak, labeled person may accept imposed label
+- Secondary deviance results from process in which labeled person finally accepts the label
+
+## Master Status and Retrospective Interpretation
+- Master status: notion that certain traits take-over our perception of the identity of others
+- Auxiliary status: notion that certain traits are ignored over an individual's master status
+- Once labeled a criminal, this becomes the individual’s master status
+- Retrospective interpretation. The identities of individuals that get labelled are reconstructed to fit their "criminal" master status.
+
+## Key terms
+
+- Social reaction school
+- Self-report surveys
+- Tag
+- Falsely accused acts
+- Pure deviant acts
+- Conforming acts
+- Secret deviant acts
+- Master status
+- Auxiliary status
+- Retrospective interpretation
+
+
+
+

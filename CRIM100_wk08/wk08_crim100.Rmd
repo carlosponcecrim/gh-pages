@@ -1,0 +1,82 @@
+---
+title: "Policing and Corrections"
+author: CRIM 100
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+# Policing
+
+## Detroit
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pt6hnabnkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Key features of public police:
+- Legally authorized to use coercive force. 
+- Non-military, but embrace militaristic-bureaucratic hierarchical chain of command
+
+## Policing as a concept
+- Shift from police “organization” to policing “process”
+    - Considers individuals and entities outside police organizations that intervene
+- Public vs private policing
+
+
+## Forces shaping policing (1/2)
+
+- Recognition that police agencies and the cjs inability to prevent crime and guarantee security by themselves
+- Cost-saving resource allocation measures
+- Widespread mobilization of community policing
+    - *Responsibilization strategies* activate informal social control agents
+- Proliferation of private policing
+- Technology advancements and data availability
+
+## Forces shaping policing (2/2)
+
+- Acknowledgement that modern human resource management not compatible with military style structure
+- Impact of high levels of fear in the midst of consistent crime reduction
+    - Garland's crime complex:
+        - High crime rates are a given
+        - Widespread and intense emotional investment in crime
+        - Politization of crime
+        - Public policy dominated by concern over victims & public safety
+        - Perception of CJ ineffectiveness
+        - Large market for security
+        - Crime awareness
+  
+
+## Levels of Policing in Canada
+- Federal 
+    - 6.7% of police officers in Canada
+    - RCMP
+- Provincial
+    - 15% of police officers
+    - Independent provincial police forces (Ontario, Quebec & Newfoundland) + RCMP provincial contracts 
+- Municipal
+    - 66% of police officers
+    - Independent police forces (89%) + RCMP municipal contracts (10%)
+
+- Regional policing
+    - Option for adjacent municipalities to amalgamate their individual police departments into one large police service
+
+## First Nations
+
+- Provinces have jurisdiction over the “administration of justice” & federal government has authority over “Indians and Lands reserved for the Indians”
+
+- First Nations Policing Program (FNPP)
+    - Aimed at improving quality of policing services
+    - The federal government, through Public Safety Canada, negotiates cost-sharing agreements with the provinces
+    - Two main types of policing agreements:
+        - Self-administered Agreements. Cmmunity manages its own police service
+        - Community Tripartite Agreements. Dedicated contingent of officers from an existing police service.
+    
+
+    
