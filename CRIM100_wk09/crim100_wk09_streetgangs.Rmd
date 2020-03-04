@@ -1,0 +1,256 @@
+---
+title: "Street gangs"
+author: CRIM 100 - WINTER 2020
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: false
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+##Today's topics
+
+- Defining gangs
+- Gang correlates and theories
+- Gangs in Canada
+
+# Defining gangs
+
+## Gang homicide? <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/master/homicide_scene.jpg">
+
+## What is a gang?
+
+- Lack of universally accepted definition
+- Definitions vary cultural and geographic context
+- There are a few that are widely used (e.g., the Eurogang gang definition)
+
+## Some examples
+
+- Thrasher (1927)
+- Klein (1971)
+- Klein, Weerman and Thornberry (2006)
+- Howell (2012) 
+- FBI (2014)
+
+## Eurogang definition (Klein & Maxson, 2006)
+
+"A street gang (or a troublesome youth group corresponding to a street gang elsewhere) is any durable, street-oriented youth group whose own identity includes involvement in illegal activity."
+
+## Static vs dynamic definitions
+
+- Difficult to capture complexity of problem with static definitions
+- Dynamic definitions overcome this limitation
+
+## Gangs as a continuum <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/master/gang_continuum.JPG">
+
+## Elements linked to gang evolution
+
+- Response to external stimuli
+- Changes in offending, organization and focus
+- Know-how
+- Maturity
+- Leadership
+
+## Taylor (1990) - Scavenger gangs
+- Nexus based on impulsive behaviour and need to belong
+- Volatile leadership
+- Target the weakest actors in their neighbourhoods
+- Spontaneous and unpurposive offences
+- Violence perpetrated for fun
+- Lack of objectives and common purpose
+
+## Taylor (1990) - Territorial gangs
+- Group identity is created
+- Somebody assumes leadership position
+- Territory is proclaimed, guarded and defended
+- Strangers are considered invaders/enemies
+- Start to organize around objectives and specific purposes
+- Involvement in drugs
+- Group takes advantage of authority vacuum
+- Extra-legal rules set by group
+- Violence is used to eliminate rivals and deal with noncompliance
+- Increased mobility and expansion of territorial coverage 
+
+## Taylor (1990) - Corporate gangs
+- Well defined, solid command structure
+- Main purpose: illicit activities that generate monetary returns
+- Memebership based what individual brings to the grpup
+- Merits and not personality allows individuals to escalate hierarchy
+- Task designation and specialization
+
+## Gang membership
+
+- Self identification
+- Criteria checklist:
+    - Gang peer associations
+    - Criminal activity with gang members
+    - Parent/guardian admission of youth's gang involvement
+    - Tattoos and/or use of gang insignia
+    - Credible informant identification of a youth as a gang member 
+
+## Gang-motivated vs gang-related offences
+- Chicago Police Deparment: motivation-based criteria
+- Los Angeles Police Department: participant-based criteria
+- Maxson & Klein (1990) found that using Chicago criteria reduced # of gang homicides in LA by aprox 50%
+
+
+
+# Gang correlates and theories
+
+## Historical development of gangs
+- Immigration waves and inadequate conditions
+- European immigrant waves in the US
+- Migration of black population from rural to urban areas
+- Latin american immigration wave
+
+## Gangs in the US today
+- Second generation immigrants more likely to be gang members
+- Most older than 18
+- 1/3 female
+- Hispanics largest ethnic category in gangs
+- Hybrid gangs - shift in gang membership and allegiances
+
+## Gang evolution and correlates
+- Expressive vs instrumental violence
+- Planning or discussing future crimes
+- Interaction with formal social control agents
+- Organization and structure
+- Gangs and drugs
+- Gang membership 
+- Gang symbols and colors
+- Role of prison gangs
+
+## Main theoretical explanations
+- Concentrated disadvantage
+- Subcultural 
+- Lifecourse
+
+## Concentrated disadvantage - Social disorganization theory <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/master/concentric_circles.png">
+
+## Concentrated disadvantage - Social disorganization theory
+- Shaw and McKay 
+- Zone II: Highest concentration offences, regardless of the ethnic group
+- High crime rates did not follow ethnic groups 
+- Nature of neighbourhood not individuals influenced crime rates
+- Breakdown in informal social control mechanisms
+
+
+## Concentrated disadvantage - Social disorganization theory <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/master/community%20structure%20and%20crime.png">
+
+## Subcultural - Culture of The Gang (Albert Cohen)
+- Cultural transmission + structurally induced strain
+- Lower-class youth are disadvantaged to achieve middle-class standards of success and status
+- Delinquent subculture develops when middle-class goals and norms are substituted
+- Once it emerges, delinquent subculture can be transmitted
+- The code of the streets (Anderson, 1999)
+
+
+
+## Subcultural - Illegitimate opportunity theory
+- Cloward & Ohlin
+- Adaptation is conditioned by availability of illegitimate means
+- Three types of subcultures:
+- Criminal subculture in organized neighborhoods
+- Conflict or fighting-oriented subculture in disorganized neighborhoods
+- The retreatist or drug using subculture when double failures (unable to achieve status legitimately or illegitimately)
+
+## Life-course - Risk and Protective factors
+- Focuses on child and adolescent development
+- Risk and protective factors change throughout the life course
+- Serious delinquency mediates effect of risk factors
+- Multiple risk factors increase likelihood of gang membership
+- Accumulation of risk factors predicts gang membership
+
+
+## Life-course - Multiple marginality
+- Combination of macro and individual perspectives
+- Discrimination and ostracism at the structural level lead to lack of economic and social opportunities, as well as to weakened social institutions(i.e., schools and families) 
+
+# Gangs in Canada
+## What do we know about gangs in Canada?
+- No precise measure of youth gang involvement
+- Results of the 2002 Police Survey of Youth Gangs
+- Provincial/local research suggests: Problem across many ethnic, geographic, demographic and socioeconomic contexts
+
+## Populations of interest to Canadian gang scholars
+- Aboriginal youth
+- Immigrant youth
+- Young women
+
+## Aboriginal gangs - Hot spots
+- Presence in urban, rural and correctional contexts
+- Growing in prairie provinces (Winnipeg, Regina, Saskatoon and Edmonton) and northern Canada (Iqaluit and Yellowknife)
+
+## Aboriginal gangs - Their relevance
+- Concerning because aboriginal population:
+    - <i>Growing at a relatively higher rate</i>
+    - <i>Currently overrepresented in CJS</i>
+    - <i>Has high victimization rate</i>
+    - <i>Has high violent offending rate</i>
+
+## Aboriginal gangs - Organization
+- Relatively unorganized and unsophisticated
+- Volatile membership
+- Intergenerational 
+
+## Aboriginal gangs - Gang members
+- In fringes of legitimate and illegitimate opportunity structures
+- Less educated 
+- More economically disadvantaged
+- Get involved as early as 8 years old
+
+## Aboriginal gangs - Criminal activity
+- Used by more sophisticated criminal organizations for "street work"
+- Access to less profitable criminal opportunities 
+- Higher rates of internalized violence (compared to externalized)
+- Main motivations behind gang violence: revenge, retaliation and reputation
+
+## Aboriginal gangs - Risk factors
+- Multiple marginality
+    - Racism
+    - Marginalization 
+    - Colonialization 
+    - loss of culture
+    - loss of land
+    - poverty
+    - Intergenerational violence
+    - Unemployment
+    - Issues of poor health
+
+## Aboriginal gangs - Risk factors
+- Individual factors
+    - Stressful experiences, early life hardships and negative emotions coming from marginality in other life domains
+    - Involvement in delinquency
+    - Early substance abuse
+    - Associating with gang members
+    - Weak school attachment
+    - Family gang involvement
+    - Poor parental monitoring 
+    - Parental neglect/abuse
+    - Involvement in the Aboriginal child welfare system
+
+
+## Gangs in BC
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bMLZnhl-_j8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+#Content review
+
+## Key Concepts
+- Eurogang definition
+- Static and dynamic gang definitions
+- Gangs as a continuum
+- Taylor's gang typology (scavenger, territorial and corporate gangs)
+- Gang-motivated offences
+- Gang-related offences
+- Social disorganization theory
+- Informal social control
+- The culture of the gang
+- Illegitimate opportunity theory (criminal, conflict & retreatist subcultures)
+- Life-course perspective (risk & protective factors)
+- Multiple marginality
