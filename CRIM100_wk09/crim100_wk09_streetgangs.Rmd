@@ -46,7 +46,7 @@ output:
 - Difficult to capture complexity of problem with static definitions
 - Dynamic definitions overcome this limitation
 
-## Gangs as a continuum <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/master/gang_continuum.JPG">
+## Gangs as a continuum <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk09/gang_continuum.JPG">
 
 ## Elements linked to gang evolution
 
@@ -130,7 +130,7 @@ output:
 - Subcultural 
 - Lifecourse
 
-## Concentrated disadvantage - Social disorganization theory <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/master/concentric_circles.png">
+## Concentrated disadvantage - Social disorganization theory <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk09/concentric_circles.png">
 
 ## Concentrated disadvantage - Social disorganization theory
 - Shaw and McKay 
@@ -140,7 +140,7 @@ output:
 - Breakdown in informal social control mechanisms
 
 
-## Concentrated disadvantage - Social disorganization theory <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/master/community%20structure%20and%20crime.png">
+## Concentrated disadvantage - Social disorganization theory <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/masterCRIM100_wk09/communitystructureandcrime.png">
 
 ## Subcultural - Culture of The Gang (Albert Cohen)
 - Cultural transmission + structurally induced strain
