@@ -13,7 +13,7 @@ output:
       
 
 ---
-##Today's topics
+## Today's topics
 
 - Defining gangs
 - Gang correlates and theories
@@ -21,7 +21,7 @@ output:
 
 # Defining gangs
 
-## Gang homicide? <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/master/homicide_scene.jpg">
+## Gang homicide? <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk09/homicide_scene.jpg">
 
 ## What is a gang?
 
@@ -140,7 +140,7 @@ output:
 - Breakdown in informal social control mechanisms
 
 
-## Concentrated disadvantage - Social disorganization theory <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/masterCRIM100_wk09/communitystructureandcrime.png">
+## Concentrated disadvantage - Social disorganization theory <img src="https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk09/community%20structure%20and%20crime.png">
 
 ## Subcultural - Culture of The Gang (Albert Cohen)
 - Cultural transmission + structurally induced strain
@@ -239,7 +239,7 @@ output:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bMLZnhl-_j8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-#Content review
+# Content review
 
 ## Key Concepts
 - Eurogang definition
