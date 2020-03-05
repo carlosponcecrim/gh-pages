@@ -1,0 +1,210 @@
+---
+title: "Conflict Theories and Rational Theories"
+author: CRIM 104
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: true
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+
+# Conflict Theories
+
+## Essentials of conflict theories
+
+- There are many versions of conflict theory
+- critique of the relationship between *power & crime*
+- Fundamental assumption: *Societies are more properly characterized by conflict than consensus*
+- Social conflict is natural and consensus is temporary
+
+
+## The Conflict Continuum of Social Groups
+
+- Number of groups in conflict determine position in continuum
+- Legth of conflict and size are other important group attributes
+
+## Social and Intellectual Context (mid-1960s to mid-1970s)
+
+# Pluralist conflict perspectives
+
+## Common elements
+
+- Power and its use are central
+- Conflict emerges between groups attempting to exercise control over social issues
+- Social issues = fields of combat 
+- The group that controls resources (money, land, political power) wins
+- Law and law enforcement are seen as resource.
+- Law embodies the values of those who create it
+
+## Various contributors
+
+- George Vold
+- Austin Turk
+- Richard Quinney
+- Hubert Blalock
+
+
+## George Vold
+
+- Overlap of interests causes inter-group conflict
+- Permanent inter-group conflict aimed at improving standing
+- Conflict & struggled over control of power mirrored in lawmaking, lawbreaking, and law enforcement
+- Lack of power to influence lawmaking results in the criminalization of minority group behaviour
+
+
+## Austin Turk
+
+- Social order is a product of powerful groups attempting to control society
+- Examined criminal designation in an authority–subject relationship
+- Less sophisticated subjects more likely to interact with authorities
+- Control over society exerted through:
+    - Coercion or physical force.
+    - Control of legal images (ie, proscriptive and procedural laws) and living time (ie, generational relay)
+- High crime rates result when:
+    - Physical coercion is most common form of control 
+    - Controlling group is more powerful
+
+
+## Richard Quinney
+
+- Questioned the definitions of crime and the legal process
+- Integrative approach (i.e., incorporated ideas from differential association, social learning, and labeling)
+- Rejected the idea that scientific researchers worked with data representing the real world. He argued reality is what we perceive it to be.
+- Crime = product of reaction
+- Reaction of authorities is the most important as they have the political power to define crime and criminals.
+- Crime, then, is the product of legal definitions constructed through the exercise of political power
+
+## Hubert Blalock’s “power-threat” theory
+
+- Emphasized importance of race and national origin
+- Political control and/or violence used by white people to deal with challenges to their dominance
+- Challenges arise when minority group grow enough
+- Challenges to authority are answered by increasing discrimination through:
+    - Restriction of political rights of minority
+    - Increase of symbolic forms of segregation
+    - Creation of threat-oriented ideological system
+
+
+
+# Radical, Marxist conflict
+
+## Common elements
+
+- Positions range from political anarchism, Marxism, economic materialism, value diversity, and left realism. 
+- Ruling class:
+    - controls society' resources
+    - Uses law as a means of control: 
+        - Creating laws emphasizing the behaviors of the lower classes
+        - Encouraging a myth that law serves the interests of everyone
+
+
+## Marxist Criminology
+- Scarcity and unequal distribution of resources lead to Conflict in society 
+- Inequality creates a conflict between groups with and without power
+- Two economic classes of society: 
+    - The proletariat (the working class) 
+    - The dominant bourgeoisie (the nonworking owners of wealth)
+- Working class is:
+    - Exploited by dominant class
+    - Made to believe that capitalist structure was in their interest. 
+    - Motivated to revel when it realizes this is not true
+
+
+## Steven Spitzer (1975) –Problem populations
+- Surplus labour is necessary for capitalism
+- Guarantees low wages because of competition for jobs
+- Too much surplus labor creates problems
+    - Expense of caring for them
+    - Danger of revolt
+- Types of surplus labor in relation to need for control:
+    - Social Junk – less expensive, low threat (refuse to work or school, retreat to drugs, etc)
+    - Social Dynamite – expensive, high threat (poor stealing from rich, anti-capitalist activists, etc)
+
+## Major concepts in radical explanations of crime
+- Social Class – created to separate people
+- Political Economy – class tied to economic inequality
+- Family Disorganization – product of inequality & reproduction of workplace relations in the home
+- Economic Conditions – artificial unemployment yields necessity of control actions
+- Surplus Value – decreasing cost of production yields increasing product value (property crime)
+
+
+## Left Realism
+- Emerged from criticism to radical and Marxist explanations for being too simplistic
+- Aims to translate radical ideas into realistic social policy
+- Realists recognize the presence of crime in socialist countries
+
+## Anarchist Criminology
+- Opposed to hierarchies in all their forms
+- Views authorities as agents of domination, serving one or several groups at the expense of others. 
+- Domination does not merely imply coercion but also structures of knowledge, perception, and understanding.
+- Justice should be face-to-face, negotiated
+
+
+# Rational Theories
+
+## Overview
+
+- Late 1970s and 1980s
+- Outgrowth of victimization data
+- Borrow from economic models of behavior
+- More conservative criminology
+
+
+## Sociald and Political Context
+
+- Social Heritage
+    - 1970s and 1980s period of conservative thought
+    - Several world events made Americans feel threatened
+    - Crime control and punitive policies
+    - Offenders viewed as bad people that chose to commit crimes
+
+- Intellectual Heritage
+    - 1980s field was seen as stagnant
+    - Rehabilitation pronounced dead, attention turned to effectiveness of police, corrections, etc.
+    - Victimiaztion surveys
+
+## Major Rational Theories
+
+- Routine Activities (Cohen & Felson)
+- Lifestyle Theory (Hindelang, Garofalo, & Gottfredson)
+- Rational Choice Theory (Cornish & Clark)
+
+## Routine Activities Theory
+- Volume of criminal offenses is related to normal everyday patterns of interaction
+- Work, leisure, school, errands, socializing
+- Offenders disproportionately find victims in certain settings
+- 3 elements of a crime
+    - Likely offender
+    - Suitable target
+    - Absence of a capable guardian
+    
+## Routine Activities
+- Crime not related to social and cultural conditions
+- Crime rates rise with:
+    - increase in number of suitable victims 
+    - absence of protectors
+- Individuals are more likely to be victimized:
+    - the more they associate w/ or come in contact w/ members of demographic groups containing a greater number of offenders 
+
+## Lifestyle Theory
+- Those w/ patterns of activities (lifestyles) which bring them more frequently into contact w/criminals & criminal environments are more likely to be victimized
+- *Social roles:* Based on expectations of others, individuals construct lifestyles more conducive to victimization
+- *Position in social structure:* Victimization rates are inverse of social status, based on normal places frequented and activities
+- *Rational decisions:* Choices to engage in more or less risky behaviour
+- Victims & offenders share similar demongraphic characteristics.
+- Demographic characteristics not causal, but indicators of:
+    - constraints (structural, economic, family, legal)
+    - expectations (roles, duties, schedules)
+
+
+
+
+
+
+
