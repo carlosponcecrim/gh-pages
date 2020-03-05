@@ -30,6 +30,8 @@ output:
 - Legth of conflict and size are other important group attributes
 
 ## Social and Intellectual Context (mid-1960s to mid-1970s)
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk09/social_intellecctual.JPG)
+
 
 # Pluralist conflict perspectives
 
@@ -192,15 +194,38 @@ output:
 - Individuals are more likely to be victimized:
     - the more they associate w/ or come in contact w/ members of demographic groups containing a greater number of offenders 
 
-## Lifestyle Theory
+
 - Those w/ patterns of activities (lifestyles) which bring them more frequently into contact w/criminals & criminal environments are more likely to be victimized
 - *Social roles:* Based on expectations of others, individuals construct lifestyles more conducive to victimization
 - *Position in social structure:* Victimization rates are inverse of social status, based on normal places frequented and activities
 - *Rational decisions:* Choices to engage in more or less risky behaviour
+
+## Lifestyle Theory
 - Victims & offenders share similar demongraphic characteristics.
 - Demographic characteristics not causal, but indicators of:
     - constraints (structural, economic, family, legal)
     - expectations (roles, duties, schedules)
+- Same people often alternate between offender & victim 
+- Lifestyle patterns are determined by adaptations (individual & subcultural) to structural constraints & role expectations
+
+## Rational Choice Theory
+
+- Crime is a way to meet basic needs
+    - Usually monetary, usually property crime
+- Rationality is a decision-making process
+    - What opportunities exist?
+    - What are the potential costs of action?
+    - What are the anticipated benefits?
+- Bounded rationality
+
+## Rational Choice Theory
+
+- Involvement decisions
+    - Is it worthwhile?  Are risks reasonable? or Pass up opportunity?
+- Event decisions
+    - Tactics (methods) are acceptable, easy enough –helps to justify involvement
+- Details can vary by type of crime – part reason of why offenders specialize
+
 
 
 
