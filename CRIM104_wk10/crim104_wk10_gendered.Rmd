@@ -13,9 +13,19 @@ output:
       
 
 ---
+## Drug Queenpins
+<iframe width="560" height="315" src="https://www.youtube.com/embed/unYbjfi4uTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Overview
 
+- Background
+- Social traits in feminist theories
+- Gender gap
+- The concept of economic marginalization
+- Gender-based theories of criminality
+
+# Background
 
 ## Basic directions of gender theory
 
@@ -35,15 +45,104 @@ output:
 
 ## Freda Adler's groundbreaking work
 
-- Masculinity Thesis  (or liberation hypothesis)
-- Women’s Movement resulted in changing roles of women
-- Women experience a masculinizing of their own behaviors
+- Masculinity Thesis (or liberation hypothesis)
+- Women’s Movement -> changed women's roles
+- Masculinizing of women's behaviours
 - Predicts women will commit more traditional male crimes
 
 ## Rita J. Simon – Opportunity Thesis (1975)
 
-- Historically, women had limmited access to crime opportunities
-- Social structure & private family limited constrained exposure
-- Equality in workplace -> women acces to economic crime opportunities
-- Being outside home -> increase opportunities to be involved in crime
+- Historically, women had limited access to crime opportunities
+- Social structure + private family = limited access
+- Access to crime opportunities increased through:
+    - Equality in workplace 
+    - Being outside home 
 
+# Social traits in feminist theories
+
+## Social traits in feminist theories
+
+- Paternalism
+- Chilvary
+- Sexism
+
+## Paternalism
+
+- Males need to “protect” females
+    - Females in subservient roles
+    - Men are “just being protectors”
+    - Social organization around independence of males and dependence of females
+    - Female behavior more scrutinized & controlled
+- Results
+    - Female juveniles detained more often
+    - Home victimization (under guise of “protecting”)
+    - Keeps males in power position (facilitates certain offences)
+
+## Chilvary
+
+- Chivalry Hypothesis: Males need to “protect” females (offshoot of paternalism)
+- Women are seen as in greater need of protection and being “taken care of” by men
+- Women Treated more leniently in CJS 
+- Chivalry appears to be complex: It involves stereotypical expectations
+
+## Sexism
+
+- Attitudes & practices creating inequality between the sexes
+    - Sometimes known as “double-standard”
+    - Females overdetained for “sex-related” offenses 
+    - Mothers held responsible by social service agencies
+- Explains differences in types of crimes between males & females
+
+
+# Gender gap
+
+## Gender gap
+
+- Gender Gap:  Difference between crimes committed by women and crimes than men
+- Typically women commit fewer and less serious crimes
+
+## Why is the gender gap narrowing?
+
+- Women are changing behavior and committing more crimes
+    - exposure to poverty, violence and limited opportunities
+    - new masculinized roles -> crime is an option
+- Outside forces are changing (e.g., harsher judges and police officer) 
+- Female offending unchanged, male offending decreasing
+
+# The concept of economic marginalization
+
+## The concept of economic marginalization
+
+- Clarice Feinman/Ngaire Naffine –(1986/1987)
+- No opportunities + pressure to compete equally -> increased crime by women
+- Bulk of female offenders are unemployed or concentrated in a “pink-collar ghetto”
+
+
+# Gender-based theories of criminality
+
+## Parental influence
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM104_wk10/FEMALEQB091312.jpg)
+
+## John Hagan's Power-Control Theory
+
+- Conflict + social control
+- Work experience shapes relations in households
+    - Differential experencies (social classes and genders)
+- Control exercised over kids determines their behavioural preferences
+- Parents as power brokers in defining kids’ gender roles 
+- Patriarchal family: greater gender gap between sons & daughters (sons more delinquent)
+
+# Content review
+
+## Key concepts
+
+- Androcentric
+- Masculinity Thesis (or liberation hypothesis)
+- Opportunity Thesis 
+- Paternalism
+- Chilvary
+- Sexism
+- Gender gap
+- Concept of economic marginalization
+- Pink-collar ghetto
+- Power-Control Theory
