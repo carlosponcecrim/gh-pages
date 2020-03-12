@@ -14,7 +14,7 @@ output:
 
 ---
 
-## By the end of this lecture you will be able to answer the following questions:
+## Overview
 - What is criminology and how did it emerge?
 - Criminology as a multidisciplinary social science
 
@@ -93,7 +93,7 @@ output:
   ![A test image](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/Crim100_wk02/c100_l02_crimedrop.jpg)
   
 
-# Criminology as a multidisciplinary 
+# Criminology as a multidisciplinary social science
 
 
 
