@@ -1,0 +1,83 @@
+---
+title: "White Collar Crime"
+author: CRIM 100
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: false
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+## You remember this guy? 
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk10/madoff.JPG)
+
+## Inside the Madoff Scandal: Chapter One
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cxFBurk12Gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Inside the Madoff Scandal: Chapter Two
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4yugDvzvv04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Definition 
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk10/sutherland_wcc.png)
+
+## Types of WCC
+
+- Occupational crime
+    - Refers to violations of the law in the course of practicing a legitimate occupation
+- Organizational or corporate crime
+    - WCC committed with the support and encouragement of a formal organization and intended, at least in part, tp advance the goals of the organization
+
+
+## Features of WCC
+
+- Offenders come from the upper classes
+- Offenders have greater influence over the system (laws, regulations, law enforcement, etc.)
+- Takes place in work environment
+- Offences are complex and often involve breaking various types of laws and regulations
+- Wider impact
+- Corporate nature (legal personality) makes prosecution more complex
+
+## Executive Disengagement 
+
+- Top figures are protected:
+    - Subordinates believe its best not to inform
+    - Not legally expected to have complete control
+    
+## Criminogenic Market Structure
+
+The configuration and functioning of certain economic markets pushes participants into criminal behaviour.
+
+## Large Scale of Corporations
+
+- Freedom at the top
+- Pressure at the bottom
+
+## Corporate Accounting Scandals
+
+- Artificially improve company's financial standing
+- Motivating factors:
+    - Employee's stock options
+    - Performance bonus
+    
+
+# Content review
+
+## Key Concepts
+- WCC definition
+- Occupational crime
+- Organizational or corporate crime
+- Features of WCC
+- Executive Disengagement
+- Criminogenic Market Structure
+- Stock options
+- Performance bonus
+

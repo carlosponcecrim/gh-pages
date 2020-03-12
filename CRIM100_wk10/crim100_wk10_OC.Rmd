@@ -1,0 +1,158 @@
+---
+title: "Organized Crime"
+author: CRIM 100
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: false
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+## Today's Topics
+
+- Defining organized crime
+- Modern OC constructs
+- OC in Canada
+
+# Defining OC
+
+## What is OC? 
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk10/organized_crime.png)
+
+## Evolution of OC Definition
+- Thrasher (1927)
+- Traditional organized crime vs non-traditional (emerging) organized crime 
+
+## Static Definitions 
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk10/statdefs_organizedcrime.png)
+
+## Abadinsky's (2010) Definition
+- Organized crime:
+    - Has no political goals
+    - Is hierarchical
+    - Has a limited or exclusive membership
+    - Constitutes a unique subculture
+    - Perpetuates itself
+    - Exhibits a willingness to use illegal violence
+    - Is monopolistic
+    - Is governed by explicit rules and regulations
+
+## Lupsha's (1996) Stages  of OC 
+
+- Predatory
+- Parasitic
+- Symbiotic
+
+## Lupsha's Predatory Stage
+- Spatially constrained
+- Defensive crimes
+- Violence: territory, rivals & local monopoly of illicit  use of force
+- Offences seek immediate rewards
+- Once dominance over territory is established:
+    -Extortion of local businesses
+    - More sophisticated criminals and politicians start to use them
+- Most manageable phase
+
+
+## Lupsha's Parasitic Stage
+
+- Maturation: age, criminal skills, leadership & role specialization
+- Corrupt interaction with politicians
+- Window of opportunity for legitimization (full parasitic interaction)
+- Supply of illegal goods & services keeps things running smoothly
+- The police designate group as organized crime
+- Group is featured in TV & movies
+- Group accumulates enough money to:
+    - Finance and support political campaigns
+    - Secure protection from corrupt politicians
+    - Penetrate the legitimate business world
+
+## Lupsha's Symbiotic Stage
+
+- Parasitic relationship becomes mutual
+- Group holds monopoly over certain legal and illegal businesses
+- Group becomes a key player in political dynamic
+
+## Hells Angels
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7jip5D4z91Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Modern OC constructs
+
+## Why the cartels are winning
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hopYEuFA0g4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Complexity of OC Activities
+
+- Intergroup collaboration
+- Market-based approach to OC
+
+
+## Morselli (2009) 
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk10/morselli_ch7.png)
+
+
+## Malm et al. (2011) 
+
+![](https://raw.githubusercontent.com/carlosponcecrim/Slides/master/CRIM100_wk10/malmetal_2011.JPG)
+
+
+## Ethnicity Still Plays a Role
+
+- Minimize uncertainty and risk
+- Secrecy - Language and cultural barriers for law enforcement
+- Loyalty - Access to relatives and friends
+
+
+## Emergence of OC Crime Opportunities
+
+- Produced by shifts and trends
+    - Economic
+    - Social
+    - Political
+    - Regulations & enforcement
+
+## Push & Pull Factors for OC
+
+- Push
+    - Increased law enforcement
+    - Increased competition from criminal groups (selection effect)
+- Pull
+    - Mass demand
+    - Access to supply
+    - Lax law enforcement
+    - High impunity/corruption
+    - Proximity to trafficking routes
+    - Porous borders
+    - Presence of brokers and facilitator
+
+# OC in Canada
+
+## Factors Associated with OC in Canada
+
+- Transit country (stolen cars, jewellery, drugs & large-scale scams)
+    - Colombian, Asian & Russian groups
+- Cities' physical & geographical features
+    - Ports & points of entry
+    - Population size & heterogeneity
+    - Banking & financial institutions
+- Vancouver vs Montreal
+
+# Content review
+
+## Key Concepts
+- Traditional organized crime
+- Non-traditional (emerging) organized crime
+- Lupsha's (1996) stages of OC (predatory, parasitic & symbiotic)
+- Market-place approach to OC
+- Emergence of OC crime opportunities
+- Push & pull factors for OC
+- Factors associated with OC in Canada
+
+
