@@ -1,0 +1,49 @@
+---
+title: "Gender Based Theories"
+author: CRIM 104
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    incremental: false
+    theme: night
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      center: true
+      
+
+---
+
+## Overview
+
+
+## Basic directions of gender theory
+
+- Traditional theory is androcentric (male-centered)
+- Theory needs greater gender sensitivity & explanations of female criminality
+
+## Social and intellectual context
+- Social context
+    - Emerged during the 1970s
+    - Civil-equality movement spread to women
+    - Awareness of power and who was dominated
+
+- Intellectual context
+- Popularity of conflict theories
+- Feminist issues spread to criminology
+
+
+## Freda Adler's groundbreaking work
+
+- Masculinity Thesis  (or liberation hypothesis)
+- Women’s Movement resulted in changing roles of women
+- Women experience a masculinizing of their own behaviors
+- Predicts women will commit more traditional male crimes
+
+## Rita J. Simon – Opportunity Thesis (1975)
+
+- Historically, women had limmited access to crime opportunities
+- Social structure & private family limited constrained exposure
+- Equality in workplace -> women acces to economic crime opportunities
+- Being outside home -> increase opportunities to be involved in crime
+
